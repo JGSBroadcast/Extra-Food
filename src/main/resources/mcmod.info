@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extrafood",
+  "name": "Extra Food Mod",
+  "description": "Adds a variety of different foods to Minecraft.",
+  "version": "1.2",
+  "mcversion": "1.11",
+  "url": "http://bit.ly/extrafoodsmod",
+  "updateUrl": "",
+  "authorList": ["JGSBroadcast"],
+  "credits": "Made by JGSBroadcast",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
